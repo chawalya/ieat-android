@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="textSize">40dp</dimen>
+    <dimen name="textHeader">20dp</dimen>
+    <dimen name="lw">131dp</dimen>
+    <dimen name="lh">59dp</dimen>
+    <dimen name="ac2mT">400dp</dimen>
+    <dimen name="ac1lh">350dp</dimen>
+    <dimen name="ac1MT">40dp</dimen>
+    <dimen name="mt">20dp</dimen>
+    <dimen name="pd">20dp</dimen>
+    <dimen name="popuplw">350dp</dimen>
+    <dimen name="popuptextlh">55dp</dimen>
+    <dimen name="ac1lw">300dp</dimen>
+    <dimen name="radioButton">30dp</dimen>
+
+</resources>

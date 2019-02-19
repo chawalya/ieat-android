@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iEat</string>
+    <string name="txt">Please Shake</string>
+    <string name="hello_world">hello world</string>
+    <string name="shake">Shake!!</string>
+    <string name="start">Start</string>
+</resources>

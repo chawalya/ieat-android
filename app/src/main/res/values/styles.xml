@@ -1,0 +1,41 @@
+<resources>
+
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+    <style name="header">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/red</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/textHeader</item>
+
+    </style>
+
+    <style name="home">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@drawable/bg</item>
+
+    </style>
+
+    <style name="btn">
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:radioButtonStyle">@dimen/radioButton</item>
+
+    </style>
+
+    <style name="shake">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="ac1">
+        <item name="android:background">@color/white</item>
+    </style>
+
+
+</resources>

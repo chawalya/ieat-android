@@ -1,0 +1,4 @@
+#Sun Dec 02 23:23:19 ICT 2018
+base.0=/Users/patchariya/Desktop/FinalProjectMobile/app/build/intermediates/transforms/dexMerger/debug/52
+path.0=classes.dex
+renamed.0=classes.dex
